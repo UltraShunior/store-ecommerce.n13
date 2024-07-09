@@ -1,9 +1,9 @@
 "use client";
 
-import Image from "next/image";
+import Image from 'next/image';
 import { MouseEventHandler } from "react";
 import { Expand, ShoppingCart } from "lucide-react";
-import { useRouter } from "next/navigation";
+import { useRouter } from 'next/navigation';
 
 import Currency  from "@/components/ui/currency";
 import IconButton  from "@/components/ui/icon-button";
